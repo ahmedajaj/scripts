@@ -64,7 +64,7 @@ def lambda_handler(event, context):
     
     
     urlSend = "https://api.telegram.org/bot{token}/{method}".format(
-        token="5354769467:AAG7d1IOnR7BqOwsZ78mYi06s1LX6_IrUfk",
+        token="53567:AAGX6_IrUfk",
         method="sendDocument"
     )
     
