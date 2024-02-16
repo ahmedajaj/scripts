@@ -8,7 +8,7 @@ import boto3
 
 def send_message(chat_id, text):
     url = "https://api.telegram.org/bot{token}/{method}".format(
-        token="5354769467:AAG7d1IOnR7BqOwsZ78mYi06s1LX6_IrUfk",
+        token="535477:xxx",
         method="sendMessage"
     )
     data = {
